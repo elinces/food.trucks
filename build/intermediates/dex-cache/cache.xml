@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\classes-a51169f52f58653f91443536dd653ff222da16d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\classes-4fa38d0a21e4910e4e175828a1a8ce34a7829828.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\classes-affbf06f088bc531687842dfa3689747b71b821b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-54d23dcf59ad590b099808244b5d7e46a88f383b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\classes-0c1a3e84426c139658922a8257678c124807b14a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\classes-6fbc00cfd40495bb611f97ffc8face4d73fbe3d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\classes-92c20319f7f248574709f6f02fc334366f7dc40f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-73cd26bcc505060d432c237e865c48bb05fb3f3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Foodtruck\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c25102e4424e3761c6649c792d14a3e589fbe802.jar" />
+    </item>
+
+</items>
