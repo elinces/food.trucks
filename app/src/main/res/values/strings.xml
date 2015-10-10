@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodTruckPerfil</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="app_id">747558552054207</string>
+    <string name="title_activity_ubicacion">Map</string>
+</resources>
